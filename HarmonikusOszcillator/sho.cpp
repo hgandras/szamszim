@@ -37,6 +37,7 @@ void Euler (double dt) {
     double v0=v;
     v+=a*dt;
     x+=v0*dt;
+    
 
 }
 
